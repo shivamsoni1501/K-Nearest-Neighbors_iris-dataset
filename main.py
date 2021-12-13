@@ -1,8 +1,5 @@
-# Make Predictions with k-nearest neighbors on the Iris Flowers Dataset
-from csv import reader
 from math import sqrt
 import random
-from typing import Mapping
 
 
 def loadData():
